@@ -9,7 +9,6 @@ I created an application with client-server architecture where a list and produc
 **Back-end:** Clojure and moclojer
 
 
-
 ## API documentation
 
 #### Return all moc products

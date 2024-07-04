@@ -1,0 +1,5 @@
+--main
+figwheel.main
+--compile
+main.app
+--repl

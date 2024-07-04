@@ -1,0 +1,1 @@
+{:browser-repl true, :watch #object[cljs.closure$compilable_input_paths$reify__6406 0x3bfead8d "cljs.closure$compilable_input_paths$reify__6406@3bfead8d"], :main app, :output-to "out/main.js", :output-dir "out", :aot-cache true}
